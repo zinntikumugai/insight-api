@@ -61,7 +61,7 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "bitcore-lib": "^0.13.7",
+    "bitcore-lib": "zinntikumugai/bitcore-lib-susucoin",
     "bitcore-message": "^1.0.1",
     "body-parser": "^1.13.3",
     "lodash": "^2.4.1",
